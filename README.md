@@ -20,6 +20,7 @@
 - <img src="https://api.iconify.design/mdi:laptop.svg?color=%238B5CF6" width="18" valign="middle" /> Desarrollador full-stack — cómodo desde la interfaz hasta la infraestructura
 - <img src="https://api.iconify.design/mdi:tools.svg?color=%2300D9FF" width="18" valign="middle" /> Actualmente construyendo sistemas de nivel producción: POS con facturación fiscal, apps móviles de reservas y motores de recomendación con IA
 - <img src="https://api.iconify.design/mdi:sprout.svg?color=%238B5CF6" width="18" valign="middle" /> Enfocado en escribir specs técnicas claras y documentación lista para agentes de desarrollo
+- <img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2300D9FF" width="18" valign="middle" /> Explorando la creación de contenido: un canal de YouTube en español sobre misterios y casos sin resolver
 
 ## Tech Stack
 
@@ -56,41 +57,41 @@
 <table>
 <tr>
 <td align="center" width="50%">
-
-<a href="https://github.com/danielcrs0318/PTrello">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcrs0318&repo=PTrello&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
-</a>
-
+<img src="https://api.iconify.design/mdi:view-column.svg?color=%2300D9FF" width="28" /><br/>
+<b>PTrello</b><br/>
+Tablero estilo Kanban inspirado en Trello.<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" /><br/>
+<a href="https://github.com/danielcrs0318/PTrello"><img src="https://img.shields.io/badge/Ver_repositorio-0D1117?style=flat-square&logo=github&logoColor=00D9FF" /></a>
 </td>
 <td align="center" width="50%">
-
-<a href="https://github.com/danielcrs0318/SistemaDocentes">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcrs0318&repo=SistemaDocentes&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
-</a>
-
+<img src="https://api.iconify.design/mdi:notebook-outline.svg?color=%238B5CF6" width="28" /><br/>
+<b>SistemaDocentes</b><br/>
+Sistema de gestión de docentes con su propia capa de API.<br/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" /><br/>
+<a href="https://github.com/danielcrs0318/SistemaDocentes"><img src="https://img.shields.io/badge/Ver_repositorio-0D1117?style=flat-square&logo=github&logoColor=8B5CF6" /></a>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
-
-<a href="https://github.com/danielcrs0318/ProyectoMovil">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcrs0318&repo=ProyectoMovil&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
-</a>
-
+<img src="https://api.iconify.design/mdi:cellphone.svg?color=%2300D9FF" width="28" /><br/>
+<b>ProyectoMovil</b><br/>
+App móvil de desarrollo informativo.<br/>
+<img src="https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=000000" /><br/>
+<a href="https://github.com/danielcrs0318/ProyectoMovil"><img src="https://img.shields.io/badge/Ver_repositorio-0D1117?style=flat-square&logo=github&logoColor=00D9FF" /></a>
 </td>
 <td align="center" width="50%">
-
-<a href="https://github.com/danielcrs0318/ProyectoMicrocontroladores2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcrs0318&repo=ProyectoMicrocontroladores2&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
-</a>
-
+<img src="https://api.iconify.design/mdi:chip.svg?color=%238B5CF6" width="28" /><br/>
+<b>ProyectoMicrocontroladores2</b><br/>
+Proyecto de sistemas embebidos con microcontroladores.<br/>
+<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=ffffff" /><br/>
+<a href="https://github.com/danielcrs0318/ProyectoMicrocontroladores2"><img src="https://img.shields.io/badge/Ver_repositorio-0D1117?style=flat-square&logo=github&logoColor=8B5CF6" /></a>
 </td>
 </tr>
 </table>
 
 </div>
 
-> <img src="https://api.iconify.design/mdi:lightbulb-on-outline.svg?color=%2300D9FF" width="18" valign="middle" /> Cuando subas tus proyectos más grandes (POS, BarberApp, portafolio), puedes agregarlos aquí como tarjetas destacadas.
+> <img src="https://api.iconify.design/mdi:lightbulb-on-outline.svg?color=%2300D9FF" width="18" valign="middle" /> Cuando subas tus proyectos más grandes (POS, BarberApp, portafolio), puedes agregarlos aquí siguiendo la misma estructura de tarjeta.
 
 ## GitHub Stats
 
