@@ -91,8 +91,6 @@ Proyecto de sistemas embebidos con microcontroladores.<br/>
 
 </div>
 
-> <img src="https://api.iconify.design/mdi:lightbulb-on-outline.svg?color=%2300D9FF" width="18" valign="middle" /> Cuando subas tus proyectos más grandes (POS, BarberApp, portafolio), puedes agregarlos aquí siguiendo la misma estructura de tarjeta.
-
 ## GitHub Stats
 
 <div align="center">
