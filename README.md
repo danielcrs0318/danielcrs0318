@@ -97,9 +97,6 @@ Proyecto de sistemas embebidos con microcontroladores.<br/>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=danielcrs0318&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielcrs0318&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" />
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=danielcrs0318&hide_border=true&background=0D1117&stroke=00D9FF&ring=8B5CF6&fire=8B5CF6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=8B5CF6&dates=8B9099" />
