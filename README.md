@@ -20,7 +20,6 @@
 - <img src="https://api.iconify.design/mdi:laptop.svg?color=%238B5CF6" width="18" valign="middle" /> Desarrollador full-stack — cómodo desde la interfaz hasta la infraestructura
 - <img src="https://api.iconify.design/mdi:tools.svg?color=%2300D9FF" width="18" valign="middle" /> Actualmente construyendo sistemas de nivel producción: POS con facturación fiscal, apps móviles de reservas y motores de recomendación con IA
 - <img src="https://api.iconify.design/mdi:sprout.svg?color=%238B5CF6" width="18" valign="middle" /> Enfocado en escribir specs técnicas claras y documentación lista para agentes de desarrollo
-- <img src="https://api.iconify.design/mdi:lightning-bolt.svg?color=%2300D9FF" width="18" valign="middle" /> Dato curioso: también incursiono en creación de contenido
 
 ## Tech Stack
 
