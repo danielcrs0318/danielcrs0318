@@ -52,44 +52,44 @@
 
 ## Proyectos destacados
 
+<div align="center">
+
 <table>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### <img src="https://api.iconify.design/mdi:view-column.svg?color=%2300D9FF" width="20" valign="middle" /> PTrello
-Tablero estilo Kanban inspirado en Trello.
-<br/>`JavaScript`
-<br/>[Ver repositorio →](https://github.com/danielcrs0318/PTrello)
+<a href="https://github.com/danielcrs0318/PTrello">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcrs0318&repo=PTrello&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
+</a>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### <img src="https://api.iconify.design/mdi:notebook-outline.svg?color=%238B5CF6" width="20" valign="middle" /> SistemaDocentes + docentes_api
-Sistema de gestión de docentes con su propia capa de API.
-<br/>`JavaScript`
-<br/>[Ver repositorio →](https://github.com/danielcrs0318/SistemaDocentes)
+<a href="https://github.com/danielcrs0318/SistemaDocentes">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcrs0318&repo=SistemaDocentes&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
+</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### <img src="https://api.iconify.design/mdi:cellphone.svg?color=%2300D9FF" width="20" valign="middle" /> ProyectoMovil
-App móvil de desarrollo informativo.
-<br/>`React Native`
-<br/>[Ver repositorio →](https://github.com/danielcrs0318/ProyectoMovil)
+<a href="https://github.com/danielcrs0318/ProyectoMovil">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcrs0318&repo=ProyectoMovil&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
+</a>
 
 </td>
-<td width="50%" valign="top">
+<td align="center" width="50%">
 
-### <img src="https://api.iconify.design/mdi:chip.svg?color=%238B5CF6" width="20" valign="middle" /> ProyectoMicrocontroladores2
-Proyecto de sistemas embebidos con microcontroladores.
-<br/>`C#`
-<br/>[Ver repositorio →](https://github.com/danielcrs0318/ProyectoMicrocontroladores2)
+<a href="https://github.com/danielcrs0318/ProyectoMicrocontroladores2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=danielcrs0318&repo=ProyectoMicrocontroladores2&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=8B5CF6" />
+</a>
 
 </td>
 </tr>
 </table>
+
+</div>
 
 > <img src="https://api.iconify.design/mdi:lightbulb-on-outline.svg?color=%2300D9FF" width="18" valign="middle" /> Cuando subas tus proyectos más grandes (POS, BarberApp, portafolio), puedes agregarlos aquí como tarjetas destacadas.
 
@@ -102,7 +102,7 @@ Proyecto de sistemas embebidos con microcontroladores.
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielcrs0318&hide_border=true&background=0D1117&stroke=00D9FF&ring=8B5CF6&fire=8B5CF6&currStreakLabel=00D9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=danielcrs0318&hide_border=true&background=0D1117&stroke=00D9FF&ring=8B5CF6&fire=8B5CF6&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=8B5CF6&dates=8B9099" />
 
 </div>
 
