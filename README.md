@@ -9,7 +9,7 @@
 <div align="center">
   <a href="mailto:danielmolina3003@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00D9FF" /></a>
   <a href="https://www.linkedin.com/in/daniel-molina-a14847419/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=8B5CF6" /></a>
-  <a href="https://miportafolio1-1.vercel.app/"></a>
+  <a href="https://miportafolio1-1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=00D9FF" /></a>
 </div>
 
 <br/>
